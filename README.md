@@ -16,7 +16,7 @@ La aplicación permite a los usuarios ingresar una palabra o frase y verificar s
 
 1. Clona este repositorio:
    ```sh
-   git clone https://github.com/tu-usuario/palindrome-checker.git
+   git clone https://github.com/JhonRiv21/palindrome-checker.git
    ```
 2. Abre el archivo `index.html` en tu navegador usando live server.
 3. Ingresa un texto en el campo de entrada.
